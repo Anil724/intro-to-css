@@ -1,0 +1,92 @@
+/* #body{
+    background-color: aqua;
+} */
+ #mainheading{
+    text-align: center;
+    font-size: 3rem;
+    background-color: yellow;
+    color: black;
+    border: 10px solid lightblue;
+    border-radius: 40px;
+    box-shadow: 10px 10px 40px palevioletred;
+    /* width: 400px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ #captain{
+    text-align: right;
+    font-size: 2rem;
+    background-color: blue;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* width: 260px; */
+ }
+ #captainPic{
+    width: 600px;
+    height: 600px;
+    /* text-align: center; */
+ }
+ #captainParah{
+    font-size: .5rem;
+    color: blueviolet;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #ironman{
+    text-align: right;
+    font-size: 2.5rem;
+    background-color:red;
+    color: lightskyblue;
+    font-family: 'Courier New', Courier, monospace;
+    /* width: 260px; */
+ }
+ #ironmanPic{
+    width: 300px;
+    height: 300px;
+    /* text-align: center; */
+ }
+ #ironmanParah{
+    font-size: 1rem;
+    color: blueviolet;
+    width: 2000px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ #hulk{
+    text-align: center;
+    font-size: 3rem;
+    background-color:gray;
+    color:green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* width: 260px; */
+ }
+ #hulkPic{
+    width: 600px;
+    height: 500px;
+    /* text-align: center; */
+ }
+ #hulkParah{
+    font-size: 1.5rem;
+    color: green;
+    width: 1500px;
+    font-family: sans-serif;
+ }
+ #scarlet{
+    text-align: right;
+    font-size: 3.5rem;
+    background-color: red;
+    color: rebeccapurple;
+    font-family: serif;
+    width: 260px;
+ }
+ #scarletPic{
+    width: 400px;
+    height: 400px;
+    /* text-align: center; */
+ }
+ #scarletParah{
+    font-size: 2rem;
+    color: red;
+    width: 2500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ 
